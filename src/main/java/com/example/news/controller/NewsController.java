@@ -1,7 +1,7 @@
-package com.example.controller;
+package com.example.news.controller;
 
-import com.example.model.News;
-import com.example.model.NewsDAO;
+import com.example.news.model.News;
+import com.example.news.model.NewsDAO;
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletConfig;
 import jakarta.servlet.ServletContext;

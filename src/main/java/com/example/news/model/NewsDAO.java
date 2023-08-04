@@ -1,4 +1,6 @@
-package com.example.model;
+package com.example.news.model;
+
+import com.example.news.model.News;
 
 import java.sql.*;
 import java.util.ArrayList;
